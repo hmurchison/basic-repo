@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+
+h1 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	width: 550px; 
+}
+
+p { 
+	font-family: Geneva, Verdana;
+	width: 550px; 
+}
